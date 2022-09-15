@@ -1,4 +1,7 @@
 
+<img width="5000" src="https://github.com/Git-Tricks/.github/blob/main/resources/gittricks.banner.jpg" />
+
+---
 
 ## Hello everybody 🎉
 This space was created as a binder for several dedicated unofficial repos for "git and github tricks".<br>
