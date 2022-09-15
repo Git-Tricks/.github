@@ -14,5 +14,6 @@ Everything you see is legacy, unofficial material built for business purposes
 - <b>Licence:</b> All licenses are present within each repository. We don't assume any responsibility for the material displayed.
 - <b>Contribute:</b> No plans are currently open or ready to contribute ... however you can always send a message to a contributor.
 
+---
 
-
+<img width="35" align="left" src="https://raw.githubusercontent.com/wordpress-projects-station/.github/main/resources/repository.creditlogo.bertz.gif" > <span>Credits: </span>  Alberto Marà aka <b><a href="https://github.com/bertz-tech">github @bertz-tech</a> / <a href="https://bertz.tech">https://bertz.tech</a></b>
